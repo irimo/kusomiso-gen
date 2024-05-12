@@ -1,0 +1,108 @@
+/* CSS file */
+body
+{
+background:#ffffff center bottom repeat-x fixed url(images/bg.png);
+text-align:center;
+}
+h1{
+color:#000000;
+height:80px;
+}
+h2{
+color:#ffffff;
+font-size:140%;
+}
+#caption
+{
+color:#6699FF;
+}
+#caption strong
+{
+color:#99CCFF;
+}
+#caption hr
+{
+border:1px dashed #ffffff;
+width:100%;
+}
+.canvas
+{
+background:#ffffff center center repeat fixed url(images/bg_dark.png);
+width:600px;
+height:100%;
+vartical-align:center;
+padding:40px;
+padding-bottom:10px;
+border:2px solid #ffffff;
+}
+#sign
+{
+font-size:80%;
+color:#cccccc;
+}
+#ifr
+{
+width:100%;
+height:300px;
+margin:30px;
+}
+.fileform
+{
+margin-top:40px;
+height:50px;
+width:auto;
+text-align:left;
+}
+.fileform .explain
+{
+border-left:1px solid #ffffff;
+border-top:1px solid #ffffff;
+border-bottom:1px solid #ffffff;
+border-right:0px solid #ffffff;
+padding:4px 20px;
+vertical-align:center;
+height:100%;
+color:#ffffff;
+background-color:#000000;
+filter:alpha(opacity=50);
+float:left;
+}
+.fileform .formdiv
+{
+border-top:1px solid #ffffff;
+border-bottom:1px solid #ffffff;
+border-left:1px dashed #ffffff;
+border-right:1px solid #ffffff;
+padding:4px 20px;
+vertical-align:center;
+height:100%;
+float:left;
+}
+.divclr
+{
+clear:all;
+}
+.fileform .ext
+{
+font-size:80%;
+}
+.fileform .fle
+{
+width:300px;
+}
+.fileform .sbmt
+{
+width:200px;
+background-color:#CCCCCC;
+padding:1px;
+margin:8px 0px;
+}
+#api{
+margin:20px;
+padding:10px;
+border:1px #FFFFFF solid;
+text-align:center;
+color:#FFFFFF;
+font-size:12px;
+line-height:150%;
+}
