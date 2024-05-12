@@ -1,0 +1,2 @@
+# kusomiso-gen
+Kusomiso Generator
